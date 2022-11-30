@@ -4,6 +4,7 @@
 tasty_seeds: int = 10
 
 # add 2 seeds to tasty_seeds
+# tasty_seeds = tasty_seeds + 2
 tasty_seeds += 2
 
 # pass tasty_seeds into print function, to print it to console
