@@ -14,3 +14,6 @@ parrot_weight = parrot_weight * 2
 
 print(parrot_weight)
 
+parrot_weight = parrot_weight / 2
+
+print(parrot_weight)
